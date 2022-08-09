@@ -1,0 +1,60 @@
+
+math.floor(math.random()) gerar numero aleatorio decimal
+
+tem keyword que não pode ser variaveis.
+
+modificando html com javascript.
+
+usando document.getEelementById(nome do id criado na div).innerHtml  
+
+this.innerHTML  esta mudando o nome do botao
+
+indexOf irar buscar a ordem do objeto chamado 
+
+join irá mostrar os objetos dentro do array separados de acordo com oque vc escolher, sendo virgulas, barra, etc
+
+lista.pop irá remover o array selecionado.
+lista.shift irá remover o primeiro objeto do array
+lista.push irá adicionar um item no final do array
+lista.unshift ira adiaciona um item no começo do array
+
+// apertou o mouse
+function apertou(){
+    console.log('Apertou man');
+}
+
+//soltei o mouse
+function soltei(){
+    console.log('Soltei man');
+}
+
+
+// passou o mouse por cima
+function passouMouse(){
+    console.log('Voce passou o mouse');
+}
+
+//tirou o mouse
+function tirouMouse(){
+    console.log('Mexendo pelo botão');
+}
+
+//movendo mouse
+function movendoMouse(){
+    console.log('Mexendo o botão');
+}
+
+function onClick(){
+    console.log('Voce clicou botão 2')
+}
+
+
+
+Orientação a objeto: 
+
+cokies são valores que vai salvar a ultima vez que o usuario entrou no sit
+
+local storeage 
+e sessionStorage
+
+// O operador typeof retorna uma string indicando o tipo de um operando.

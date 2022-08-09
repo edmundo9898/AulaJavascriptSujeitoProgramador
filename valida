@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Aprendendo JS man</title>
+    <script type="text/javascript" src="script.js"></script>
+</head>
+
+<body>
+ 
+    
+    <button style="width: 400px; height: 60px ;" onmousedown="apertou()"
+     onmouseup="soltei()" 
+     onmouseover="passouMouse()" 
+     onmouseout="tirouMouse()" 
+     onmousemove="movendoMouse()">
+     fazer pedido 1
+    </button>
+
+    <button style="width: 400px; height: 60px ;" onclick="onClick()">
+        fazer pedido 2
+   </button>    
+    
+</body>
+
+</html>
