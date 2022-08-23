@@ -58,3 +58,26 @@ local storeage
 e sessionStorage
 
 // O operador typeof retorna uma string indicando o tipo de um operando.
+
+
+// diferença de let e var 
+let usa apenas dentro do escopo em que ele é criado.
+const não muda de valor, imutavel
+
++ + antes assim agora ${variavel}
+
+
+operador spread
+
+et primeiros = [1, 2, 3];
+
+primeiros
+(3) [1, 2, 3]
+let numeros = [4,5,6];
+
+let numeros = [...primeiros,4,5,6];
+
+
+numeros
+(6) [1, 2, 3, 4, 5, 6]
+
